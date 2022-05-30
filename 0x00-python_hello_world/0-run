@@ -1,2 +1,2 @@
 #!/bin/bash
-expoort PYFILE = main.py
+expoort PYFILE =main.py
