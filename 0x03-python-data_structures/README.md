@@ -1,0 +1,1 @@
+list is a data types written in an all bracket, seperayed by commas. list, all slice operation will always return new list, list content can be change because they are immutable. tupls are always enclosed in parathensis.
